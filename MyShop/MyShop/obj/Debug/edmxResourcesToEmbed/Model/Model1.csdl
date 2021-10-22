@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PCShopModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Announcement">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="seller" Type="Int32" />
+    <Property Name="idRegion" Type="Int32" />
+    <Property Name="category" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="about" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" />
+    <Property Name="cost" Type="Decimal" Precision="19" Scale="4" />
+    <NavigationProperty Name="Region" Relationship="Self.FK__Announcem__idReg__2E1BDC42" FromRole="Announcements" ToRole="Regions" />
+    <NavigationProperty Name="User" Relationship="Self.FK__Announcem__selle__2D27B809" FromRole="Announcements" ToRole="Users" />
+    <NavigationProperty Name="Baskets" Relationship="Self.FK_Basket_Announcements" FromRole="Announcements" ToRole="Basket" />
+  </EntityType>
+  <EntityType Name="Basket">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="id_User" Type="Int32" Nullable="false" />
+    <Property Name="id_Announcement" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Announcement" Relationship="Self.FK_Basket_Announcements" FromRole="Basket" ToRole="Announcements" />
+    <NavigationProperty Name="User" Relationship="Self.FK_Basket_Users" FromRole="Basket" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="installment_plan">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="installment_plan1" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Region">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="region1" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Announcements" Relationship="Self.FK__Announcem__idReg__2E1BDC42" FromRole="Regions" ToRole="Announcements" />
+    <NavigationProperty Name="TmpAnnouncements" Relationship="Self.FK__TmpAnnoun__idReg__2A4B4B5E" FromRole="Regions" ToRole="TmpAnnouncements" />
+  </EntityType>
+  <EntityType Name="Size_monitor">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="size" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TmpAnnouncement">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="seller" Type="Int32" />
+    <Property Name="idRegion" Type="Int32" />
+    <Property Name="category" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="about" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" />
+    <Property Name="cost" Type="Decimal" Precision="19" Scale="4" />
+    <NavigationProperty Name="Region" Relationship="Self.FK__TmpAnnoun__idReg__2A4B4B5E" FromRole="TmpAnnouncements" ToRole="Regions" />
+    <NavigationProperty Name="User" Relationship="Self.FK__TmpAnnoun__selle__29572725" FromRole="TmpAnnouncements" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="firstName" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="secondName" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="mail" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="password" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="telNumber" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="about" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" />
+    <Property Name="image" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="privilege" Type="String" MaxLength="5" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Announcements" Relationship="Self.FK__Announcem__selle__2D27B809" FromRole="Users" ToRole="Announcements" />
+    <NavigationProperty Name="Baskets" Relationship="Self.FK_Basket_Users" FromRole="Users" ToRole="Basket" />
+    <NavigationProperty Name="TmpAnnouncements" Relationship="Self.FK__TmpAnnoun__selle__29572725" FromRole="Users" ToRole="TmpAnnouncements" />
+  </EntityType>
+  <Association Name="FK__Announcem__idReg__2E1BDC42">
+    <End Role="Regions" Type="Self.Region" Multiplicity="0..1" />
+    <End Role="Announcements" Type="Self.Announcement" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Regions">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Announcements">
+        <PropertyRef Name="idRegion" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Announcem__selle__2D27B809">
+    <End Role="Users" Type="Self.User" Multiplicity="0..1" />
+    <End Role="Announcements" Type="Self.Announcement" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Announcements">
+        <PropertyRef Name="seller" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Basket_Announcements">
+    <End Role="Announcements" Type="Self.Announcement" Multiplicity="1" />
+    <End Role="Basket" Type="Self.Basket" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Announcements">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Basket">
+        <PropertyRef Name="id_Announcement" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Basket_Users">
+    <End Role="Users" Type="Self.User" Multiplicity="1" />
+    <End Role="Basket" Type="Self.Basket" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Basket">
+        <PropertyRef Name="id_User" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TmpAnnoun__idReg__2A4B4B5E">
+    <End Role="Regions" Type="Self.Region" Multiplicity="0..1" />
+    <End Role="TmpAnnouncements" Type="Self.TmpAnnouncement" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Regions">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="TmpAnnouncements">
+        <PropertyRef Name="idRegion" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TmpAnnoun__selle__29572725">
+    <End Role="Users" Type="Self.User" Multiplicity="0..1" />
+    <End Role="TmpAnnouncements" Type="Self.TmpAnnouncement" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="TmpAnnouncements">
+        <PropertyRef Name="seller" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="PCShop" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Announcements" EntityType="Self.Announcement" />
+    <EntitySet Name="Baskets" EntityType="Self.Basket" />
+    <EntitySet Name="installment_plan" EntityType="Self.installment_plan" />
+    <EntitySet Name="Regions" EntityType="Self.Region" />
+    <EntitySet Name="Size_monitor" EntityType="Self.Size_monitor" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="TmpAnnouncements" EntityType="Self.TmpAnnouncement" />
+    <EntitySet Name="Users" EntityType="Self.User" />
+    <AssociationSet Name="FK__Announcem__idReg__2E1BDC42" Association="Self.FK__Announcem__idReg__2E1BDC42">
+      <End Role="Regions" EntitySet="Regions" />
+      <End Role="Announcements" EntitySet="Announcements" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Announcem__selle__2D27B809" Association="Self.FK__Announcem__selle__2D27B809">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Announcements" EntitySet="Announcements" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Basket_Announcements" Association="Self.FK_Basket_Announcements">
+      <End Role="Announcements" EntitySet="Announcements" />
+      <End Role="Basket" EntitySet="Baskets" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Basket_Users" Association="Self.FK_Basket_Users">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Basket" EntitySet="Baskets" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TmpAnnoun__idReg__2A4B4B5E" Association="Self.FK__TmpAnnoun__idReg__2A4B4B5E">
+      <End Role="Regions" EntitySet="Regions" />
+      <End Role="TmpAnnouncements" EntitySet="TmpAnnouncements" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TmpAnnoun__selle__29572725" Association="Self.FK__TmpAnnoun__selle__29572725">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="TmpAnnouncements" EntitySet="TmpAnnouncements" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

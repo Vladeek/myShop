@@ -1,0 +1,26 @@
+﻿<Window x:Class="CourseProject.View.AlertWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CourseProject.View"
+       
+    
+        mc:Ignorable="d"
+        Title="AlertWindow" WindowStyle="None" ResizeMode="NoResize" Width="400" Height="250" MouseLeftButtonDown="Window_MouseDown" WindowStartupLocation="CenterScreen" BorderThickness="1" Background="#0E53A7" Foreground="White">
+ 
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="23*"/>
+            <RowDefinition Height="7*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <TextBlock x:Name="alertBlock" Margin="20,0,20,0" Text="{Binding Message}" TextWrapping="Wrap" Background="{x:Null}" FontSize="16" VerticalAlignment="Center" HorizontalAlignment="Center" />
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <Button Width="100" Height="40" Background="#04346C" VerticalAlignment="Center" Content="Понятно" Click="Button_Click" Style="{DynamicResource AuthButtonStyle}" FontSize="16"/>
+        </Grid>
+    </Grid>
+</Window>

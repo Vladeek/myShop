@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище PCShopModelContainer" CdmEntityContainer="PCShop">
+    <EntitySetMapping Name="Announcements">
+      <EntityTypeMapping TypeName="PCShopModel.Announcement">
+        <MappingFragment StoreEntitySet="Announcements">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="seller" ColumnName="seller" />
+          <ScalarProperty Name="idRegion" ColumnName="idRegion" />
+          <ScalarProperty Name="category" ColumnName="category" />
+          <ScalarProperty Name="about" ColumnName="about" />
+          <ScalarProperty Name="cost" ColumnName="cost" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Baskets">
+      <EntityTypeMapping TypeName="PCShopModel.Basket">
+        <MappingFragment StoreEntitySet="Basket">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="id_User" ColumnName="id_User" />
+          <ScalarProperty Name="id_Announcement" ColumnName="id_Announcement" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="installment_plan">
+      <EntityTypeMapping TypeName="PCShopModel.installment_plan">
+        <MappingFragment StoreEntitySet="installment_plan">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="installment_plan1" ColumnName="installment_plan" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Regions">
+      <EntityTypeMapping TypeName="PCShopModel.Region">
+        <MappingFragment StoreEntitySet="Regions">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="region1" ColumnName="region" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Size_monitor">
+      <EntityTypeMapping TypeName="PCShopModel.Size_monitor">
+        <MappingFragment StoreEntitySet="Size_monitor">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="size" ColumnName="size" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="PCShopModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TmpAnnouncements">
+      <EntityTypeMapping TypeName="PCShopModel.TmpAnnouncement">
+        <MappingFragment StoreEntitySet="TmpAnnouncements">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="seller" ColumnName="seller" />
+          <ScalarProperty Name="idRegion" ColumnName="idRegion" />
+          <ScalarProperty Name="category" ColumnName="category" />
+          <ScalarProperty Name="about" ColumnName="about" />
+          <ScalarProperty Name="cost" ColumnName="cost" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="PCShopModel.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="firstName" ColumnName="firstName" />
+          <ScalarProperty Name="secondName" ColumnName="secondName" />
+          <ScalarProperty Name="mail" ColumnName="mail" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="telNumber" ColumnName="telNumber" />
+          <ScalarProperty Name="about" ColumnName="about" />
+          <ScalarProperty Name="image" ColumnName="image" />
+          <ScalarProperty Name="privilege" ColumnName="privilege" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

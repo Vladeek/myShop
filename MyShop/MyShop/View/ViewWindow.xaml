@@ -1,0 +1,61 @@
+﻿<Window x:Class="CourseProject.View.ViewWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CourseProject.View"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d" Height="800" Width="600" WindowStyle="None" MouseLeftButtonDown="Window_MouseDown"
+        WindowStartupLocation="CenterScreen" Background="#0E53A7" Foreground="White">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300*"></ColumnDefinition>
+            <ColumnDefinition Width="300*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition  Height="50"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="70" />
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Grid.ColumnSpan="2">
+            <Grid.Background>
+                <SolidColorBrush>#04346C</SolidColorBrush>
+            </Grid.Background>
+            <TextBlock HorizontalAlignment="Left" FontSize="20" Foreground="White" Text="Информация о товаре" VerticalAlignment="Center" Margin="100,0,0,0"/>
+        </Grid>
+        <Grid Grid.Row="1" Grid.ColumnSpan="2">
+            <StackPanel x:Name="stackPanel" Orientation="Vertical" Margin="100,40,100,0">
+                <StackPanel Orientation="Vertical">
+                    <TextBlock Text="Название" Margin="20,0,0,0" FontSize="20" Foreground="White" />
+                    <TextBox Text="{Binding Name}" IsReadOnly="True" TextWrapping="Wrap" Margin="20,20,0,10"
+                             FontSize="18" BorderThickness="0,0,0,1" BorderBrush="White"  MaxLength="50"/>
+                </StackPanel>
+                <TextBlock Text="Категория" Margin="20,0,0,0" FontSize="20" Foreground="White" />
+                <TextBox Text="{Binding Category}" IsReadOnly="True" Margin="20,20,0,10" FontSize="18"
+                         BorderThickness="0,0,0,1" BorderBrush="White"/>
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                    <Image Source="{Binding BitmapImage}" Width="80" Height="80" Stretch="UniformToFill"
+                           Margin="20,10,20,10">
+                    </Image>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Stretch">
+                    <StackPanel Orientation="Vertical" Margin="0,0,30,0" Width="200">
+                        <TextBlock Text="Цена" Margin="20,0,0,0" FontSize="20" Foreground="White" />
+                        <TextBox Text="{Binding Cost}" IsReadOnly="True" Margin="20,20,0,10" FontSize="18"
+                                 BorderThickness="0,0,0,1" BorderBrush="White" MaxLength="25"/>
+                    </StackPanel>
+                </StackPanel>
+                <TextBlock Text="Описание" Margin="20,0,0,0" FontSize="20" Foreground="White" />
+                <TextBox Text="{Binding About}" IsReadOnly="True" MaxHeight="400" TextWrapping="Wrap"
+                         Margin="20,20,0,0" FontSize="18" BorderThickness="0,0,0,1" BorderBrush="White" Height="55" MaxLength="100"/>
+            </StackPanel>
+        </Grid>
+
+        <Grid Grid.Row="2" Grid.ColumnSpan="2">
+            <!--<TextBlock x:Name="counter" FontSize="16" Width="200" Foreground="White" Text="{Binding Count}"
+                       Margin="50,0,0,0" VerticalAlignment="Center" HorizontalAlignment="Left"/>-->
+            <Button Style="{DynamicResource AuthButtonStyle}" Content="Закрыть" HorizontalAlignment="Right"
+                    Margin="0,0,50,0" Click="closeButton_Click" />
+        </Grid>
+    </Grid>
+</Window>

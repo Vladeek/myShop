@@ -1,0 +1,124 @@
+﻿<Window
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+    xmlns:controls="clr-namespace:CourseProject"
+    xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls"
+    x:Class="CourseProject.View.MainWindow2"
+    mc:Ignorable="d"
+
+    Title="MainWindow2" MinHeight="720" MinWidth="1280" Height="720" Width="1280" WindowStartupLocation="CenterScreen" WindowStyle="None"
+    ResizeMode="CanResizeWithGrip" AllowsTransparency="True" Background="#0E53A7" Foreground="White">
+
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="79*" />
+        </Grid.RowDefinitions>
+
+
+
+        <Grid Grid.Row="1">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100" />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+
+            <Grid Grid.Column="1" mah:ScrollViewerHelper.IsHorizontalScrollWheelEnabled="True" Grid.RowSpan="2">
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50" />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+
+                <Border BorderThickness="0,0,0,1" BorderBrush="White">
+                <Grid Grid.Row="0" x:Name="GridBarTitle"
+                      MouseLeftButtonDown="GridBarTitle_MouseDown">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="79*"/>
+                        <ColumnDefinition Width="157*"/>
+                    </Grid.ColumnDefinitions>
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Bottom"
+                                Height="40" Margin="0,0,10,0" Grid.Column="1">
+                            <Button Click="minScreenButton_Click" Style="{DynamicResource NavigationButtonStyle}">
+                            <materialDesign:PackIcon Kind="WindowMinimize" Height="25" Width="25"
+                                                     HorizontalAlignment="Center" />
+                        </Button>
+                        <Button Click="fullScreenButton_Click" Style="{DynamicResource NavigationButtonStyle}">
+                            <materialDesign:PackIcon Kind="ArrowExpandAll" Height="25" Width="25"
+                                                     HorizontalAlignment="Center" />
+                        </Button>
+                        <Button Click="buttonClose_Click" Style="{DynamicResource CloseButtonStyle}">
+                            <materialDesign:PackIcon Kind="Close" Height="25" Width="25" HorizontalAlignment="Center" />
+                        </Button>
+                    </StackPanel>
+                </Grid>
+                </Border>
+
+                <Grid Grid.Row="1">
+                    <Frame x:Name="MainContent" Content="{Binding Content, Mode=TwoWay}"
+                           NavigationUIVisibility="Hidden" HorizontalAlignment="Stretch" Grid.ColumnSpan="2" />
+                </Grid>
+
+            </Grid>
+
+            <Border BorderBrush="White" BorderThickness="0,0,1,0" Grid.RowSpan="2">
+                <Grid Grid.Column="0">
+                    <materialDesign:TransitioningContent x:Name="TransitionSlider"
+                                                         OpeningEffect="{materialDesign:TransitionEffect FadeIn, Duration=0:0:0.100}">
+                        <Grid x:Name="GridCursor" Margin="0,40,90,0" Background="White" Width="5"
+                              HorizontalAlignment="Left" VerticalAlignment="Top" Height="100" />
+                    </materialDesign:TransitioningContent>
+                    <ListView x:Name="menuList" SelectedIndex="{Binding SelectedIndex}" Margin="0,40,0,0" Width="100"
+                              SelectionChanged="menuList_SelectionChanged" Cursor="Hand">
+                        <ListViewItem Height="100" Width="100">
+                            <StackPanel HorizontalAlignment="Center">
+                                <materialDesign:PackIcon Kind="BookOpenVariant" Margin="25,0,0,0" Height="40" Width="40"
+                                                         Foreground="White" />
+                                <TextBlock Text="Каталог" HorizontalAlignment="Center" Margin="20,5,0,0" FontSize="14"
+                                           Foreground="White" />
+                            </StackPanel>
+                        </ListViewItem>
+                        <ListViewItem Height="100" Width="100">
+                            <StackPanel HorizontalAlignment="Center">
+                                <materialDesign:PackIcon Kind="AccountBox" Margin="25,0,0,0" Height="40" Width="40"
+                                                         Foreground="White"  />
+                                <TextBlock Text="Кабинет" HorizontalAlignment="Center" Margin="20,5,0,0" FontSize="14"
+                                           Foreground="White"  />
+                            </StackPanel>
+                        </ListViewItem>
+                        <ListViewItem Height="100" Width="100">
+                            <StackPanel HorizontalAlignment="Center">
+                                <materialDesign:PackIcon Kind="Cart" Margin="25,0,0,0" Height="40" Width="40"
+                                                         Foreground="White"  />
+                                <TextBlock Text="Заказы" HorizontalAlignment="Center" Margin="15,5,-5,0"
+                                           FontSize="14" Foreground="White"  />
+                            </StackPanel>
+                        </ListViewItem>
+                        <ListViewItem Height="100" Width="100">
+                            <StackPanel HorizontalAlignment="Center">
+                                <materialDesign:PackIcon Kind="History" Margin="25,0,0,0" Height="40" Width="40"
+                                                         Foreground="White"  />
+                                <TextBlock  Text="История" HorizontalAlignment="Center" Margin="15,5,-5,0"
+                                           FontSize="14" Foreground="White"  />
+                            </StackPanel>
+                        </ListViewItem>
+                    </ListView>
+                    <Button x:Name="outButton" Width="100" Height="100" VerticalAlignment="Bottom" BorderThickness="0,0,0,0" BorderBrush="#0E53A7"
+                            Click="outButton_Click" Background="#0E53A7">
+                        <StackPanel Width="100" Margin="-15,0,0,0">
+                            <materialDesign:PackIcon Kind="ExitRun" Height="40" Width="60" Foreground="White" 
+                                                     HorizontalAlignment="Center" />
+                            <TextBlock Text="Выйти" HorizontalAlignment="Center" Margin="20,5,0,0" FontSize="14"
+                                       Foreground="White"  Width="60" />
+                        </StackPanel>
+                    </Button>
+                </Grid>
+            </Border>
+        </Grid>
+
+    </Grid>
+</Window>

@@ -1,0 +1,807 @@
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\CourseProject(WPF).exe.config
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\CourseProject(WPF).exe
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\CourseProject(WPF).pdb
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ControlzEx.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\crypto.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Core.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Discovery.v1.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\HtmlAgilityPack.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\InstagramApiSharp.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MahApps.Metro.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignColors.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.IO.FileSystem.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Net.Http.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.AccessControl.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Permissions.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\VkNet.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ControlzEx.pdb
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\crypto.pdb
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\crypto.xml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.xml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.pdb
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.xml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Core.pdb
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Core.xml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Discovery.v1.pdb
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Discovery.v1.xml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\HtmlAgilityPack.xml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MahApps.Metro.pdb
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MahApps.Metro.xml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.xml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\VkNet.xml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csprojAssemblyReference.cache
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\Resources\ButtonsDictionary.baml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AddWindow.g.cs
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AdminPage.g.cs
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AlertWindow.g.cs
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AllAnnouncement.g.cs
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AuthWindow.g.cs
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\DialogWindow.g.cs
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\EditWindow.g.cs
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\Enter.g.cs
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\InstagramWindow.g.cs
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MainWindow.g.cs
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MyAnnouncementPage.g.cs
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\PersonAreaPage.g.cs
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\QuickViewWindow.g.cs
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\RegistrationWindow.g.cs
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\UserViewWindow.g.cs
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\ViewWindow.g.cs
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\VKLoginWindow.g.cs
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\App.g.cs
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF)_Content.g.cs
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF)_MarkupCompile.cache
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF)_MarkupCompile.lref
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\App.baml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\Resources\Styles.baml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AddWindow.baml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AdminPage.baml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AlertWindow.baml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AllAnnouncement.baml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AuthWindow.baml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\DialogWindow.baml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\EditWindow.baml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\Enter.baml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\InstagramWindow.baml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MainWindow.baml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MyAnnouncementPage.baml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\PersonAreaPage.baml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\QuickViewWindow.baml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\RegistrationWindow.baml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\UserViewWindow.baml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\ViewWindow.baml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\VKLoginWindow.baml
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).g.resources
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject_WPF_.Properties.Resources.resources
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.GenerateResource.cache
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.CoreCompileInputs.cache
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.CopyComplete
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).exe
+C:\Users\KOMP\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).pdb
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\CourseProject(WPF).exe.config
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\CourseProject(WPF).exe
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\CourseProject(WPF).pdb
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ControlzEx.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\crypto.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServer.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Core.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Discovery.v1.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.PlatformServices.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\HtmlAgilityPack.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\InstagramApiSharp.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MahApps.Metro.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignColors.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Newtonsoft.Json.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.EF6.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.Linq.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SqlServerCe.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.IO.FileSystem.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Net.Http.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.AccessControl.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Permissions.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Principal.Windows.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Windows.Interactivity.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\VkNet.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ControlzEx.pdb
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\crypto.pdb
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\crypto.xml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.xml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServer.xml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServerCompact.xml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.pdb
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.xml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Core.pdb
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Core.xml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Discovery.v1.pdb
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Discovery.v1.xml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\HtmlAgilityPack.pdb
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\HtmlAgilityPack.xml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MahApps.Metro.pdb
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MahApps.Metro.xml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Newtonsoft.Json.xml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.xml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.dll.config
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\VkNet.xml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ru\EntityFramework.resources.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csprojAssemblyReference.cache
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\Resources\ButtonsDictionary.baml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AddWindow.g.cs
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AdminPage.g.cs
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AlertWindow.g.cs
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AllAnnouncement.g.cs
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AuthWindow.g.cs
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\DialogWindow.g.cs
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\EditWindow.g.cs
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\Enter.g.cs
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\InstagramWindow.g.cs
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MainWindow.g.cs
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MyAnnouncementPage.g.cs
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\PersonAreaPage.g.cs
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\QuickViewWindow.g.cs
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\RegistrationWindow.g.cs
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\UserViewWindow.g.cs
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\ViewWindow.g.cs
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\VKLoginWindow.g.cs
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\App.g.cs
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF)_Content.g.cs
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF)_MarkupCompile.cache
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF)_MarkupCompile.lref
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\App.baml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\Resources\Styles.baml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AddWindow.baml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AdminPage.baml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AlertWindow.baml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AllAnnouncement.baml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AuthWindow.baml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\DialogWindow.baml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\EditWindow.baml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\Enter.baml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\InstagramWindow.baml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MainWindow.baml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MyAnnouncementPage.baml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\PersonAreaPage.baml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\QuickViewWindow.baml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\RegistrationWindow.baml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\UserViewWindow.baml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\ViewWindow.baml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\VKLoginWindow.baml
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).g.resources
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject_WPF_.Properties.Resources.resources
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.GenerateResource.cache
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.CoreCompileInputs.cache
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.CopyComplete
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).exe
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).pdb
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MainWindow2.g.cs
+D:\уник\курсач\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MainWindow2.baml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csprojAssemblyReference.cache
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\Resources\ButtonsDictionary.baml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AddWindow.g.cs
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AdminPage.g.cs
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AlertWindow.g.cs
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AllAnnouncement.g.cs
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AuthWindow.g.cs
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\DialogWindow.g.cs
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\EditWindow.g.cs
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\Enter.g.cs
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MainWindow.g.cs
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MainWindow2.g.cs
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MyAnnouncementPage.g.cs
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\PersonAreaPage.g.cs
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\QuickViewWindow.g.cs
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\RegistrationWindow.g.cs
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\UserViewWindow.g.cs
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\ViewWindow.g.cs
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\App.g.cs
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF)_MarkupCompile.cache
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF)_MarkupCompile.lref
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).exe
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).pdb
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\CourseProject(WPF).exe.config
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\CourseProject(WPF).exe
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\CourseProject(WPF).pdb
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ControlzEx.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\crypto.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServer.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Core.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Discovery.v1.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.PlatformServices.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\HtmlAgilityPack.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\InstagramApiSharp.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MahApps.Metro.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignColors.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Newtonsoft.Json.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.EF6.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.Linq.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SqlServerCe.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.IO.FileSystem.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Net.Http.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.AccessControl.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Permissions.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Principal.Windows.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Windows.Interactivity.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\VkNet.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ControlzEx.pdb
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\crypto.pdb
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\crypto.xml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.xml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServer.xml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServerCompact.xml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.pdb
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.xml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Core.pdb
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Core.xml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Discovery.v1.pdb
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Discovery.v1.xml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\HtmlAgilityPack.pdb
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\HtmlAgilityPack.xml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MahApps.Metro.pdb
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MahApps.Metro.xml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Newtonsoft.Json.xml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.xml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.dll.config
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\VkNet.xml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ru\EntityFramework.resources.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\App.baml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\Resources\Styles.baml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AddWindow.baml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AdminPage.baml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AlertWindow.baml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AllAnnouncement.baml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AuthWindow.baml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\DialogWindow.baml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\EditWindow.baml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\Enter.baml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MainWindow.baml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MainWindow2.baml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MyAnnouncementPage.baml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\PersonAreaPage.baml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\QuickViewWindow.baml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\RegistrationWindow.baml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\UserViewWindow.baml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\ViewWindow.baml
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).g.resources
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject_WPF_.Properties.Resources.resources
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.GenerateResource.cache
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.CoreCompileInputs.cache
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.CopyComplete
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject_WPF_.Migrations.init.resources
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject_WPF_.Migrations.wwww.resources
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject_WPF_.Migrations.TUCTU.resources
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject_WPF_.Migrations.TUCTUU.resources
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject_WPF_.Migrations.TUCTULL.resources
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject_WPF_.Migrations.TUCTUOOO.resources
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject_WPF_.Migrations.TUCCC.resources
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject_WPF_.Migrations.TUWWW.resources
+D:\курсач — копия\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject_WPF_.Migrations.TYWQORIYO.resources
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\CourseProject(WPF).exe.config
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\CourseProject(WPF).exe
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\CourseProject(WPF).pdb
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ControlzEx.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\crypto.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServer.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Core.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Discovery.v1.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.PlatformServices.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\HtmlAgilityPack.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\InstagramApiSharp.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MahApps.Metro.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignColors.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Newtonsoft.Json.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.EF6.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.Linq.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SqlServerCe.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.IO.FileSystem.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Net.Http.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.AccessControl.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Permissions.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Principal.Windows.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Windows.Interactivity.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\VkNet.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ControlzEx.pdb
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\crypto.pdb
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\crypto.xml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.xml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServer.xml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.pdb
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.xml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Core.pdb
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Core.xml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Discovery.v1.pdb
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Discovery.v1.xml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\HtmlAgilityPack.pdb
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\HtmlAgilityPack.xml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MahApps.Metro.pdb
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MahApps.Metro.xml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Newtonsoft.Json.xml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.xml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.dll.config
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\VkNet.xml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ru\EntityFramework.resources.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csprojAssemblyReference.cache
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\Resources\ButtonsDictionary.baml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AddWindow.g.cs
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AdminPage.g.cs
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AlertWindow.g.cs
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AllAnnouncement.g.cs
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AuthWindow.g.cs
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\DialogWindow.g.cs
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\Enter.g.cs
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MainWindow.g.cs
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MainWindow2.g.cs
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\PersonAreaPage.g.cs
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\QuickViewWindow.g.cs
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\RegistrationWindow.g.cs
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\UserViewWindow.g.cs
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\ViewWindow.g.cs
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\App.g.cs
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF)_MarkupCompile.cache
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF)_MarkupCompile.lref
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\App.baml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\Resources\Styles.baml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AddWindow.baml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AdminPage.baml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AlertWindow.baml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AllAnnouncement.baml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AuthWindow.baml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\DialogWindow.baml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\Enter.baml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MainWindow.baml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MainWindow2.baml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\PersonAreaPage.baml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\QuickViewWindow.baml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\RegistrationWindow.baml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\UserViewWindow.baml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\ViewWindow.baml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).g.resources
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject_WPF_.Properties.Resources.resources
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.GenerateResource.cache
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.CoreCompileInputs.cache
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.CopyComplete
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).exe
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).pdb
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\CourseProject(WPF).exe.config
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\CourseProject(WPF).exe
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\CourseProject(WPF).pdb
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ControlzEx.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\crypto.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServer.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Core.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Discovery.v1.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.PlatformServices.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\HtmlAgilityPack.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\InstagramApiSharp.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MahApps.Metro.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignColors.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Newtonsoft.Json.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.EF6.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.Linq.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SqlServerCe.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.IO.FileSystem.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Net.Http.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.AccessControl.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Permissions.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Principal.Windows.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Windows.Interactivity.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\VkNet.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ControlzEx.pdb
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\crypto.pdb
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\crypto.xml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.xml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServer.xml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServerCompact.xml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.pdb
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.xml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Core.pdb
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Core.xml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Discovery.v1.pdb
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Discovery.v1.xml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\HtmlAgilityPack.pdb
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\HtmlAgilityPack.xml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MahApps.Metro.pdb
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MahApps.Metro.xml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Newtonsoft.Json.xml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.xml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.dll.config
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\VkNet.xml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ru\EntityFramework.resources.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csprojAssemblyReference.cache
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\Resources\ButtonsDictionary.baml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AddWindow.g.cs
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AdminPage.g.cs
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AlertWindow.g.cs
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AllAnnouncement.g.cs
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AuthWindow.g.cs
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\DialogWindow.g.cs
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\EditWindow.g.cs
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\Enter.g.cs
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MainWindow.g.cs
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MainWindow2.g.cs
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MyAnnouncementPage.g.cs
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\PersonAreaPage.g.cs
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\QuickViewWindow.g.cs
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\RegistrationWindow.g.cs
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\UserViewWindow.g.cs
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\ViewWindow.g.cs
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\App.g.cs
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF)_MarkupCompile.cache
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF)_MarkupCompile.lref
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\App.baml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\Resources\Styles.baml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AddWindow.baml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AdminPage.baml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AlertWindow.baml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AllAnnouncement.baml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AuthWindow.baml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\DialogWindow.baml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\EditWindow.baml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\Enter.baml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MainWindow.baml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MainWindow2.baml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MyAnnouncementPage.baml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\PersonAreaPage.baml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\QuickViewWindow.baml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\RegistrationWindow.baml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\UserViewWindow.baml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\ViewWindow.baml
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).g.resources
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject_WPF_.Migrations.initial.resources
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject_WPF_.Properties.Resources.resources
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.GenerateResource.cache
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.CoreCompileInputs.cache
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.CopyComplete
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).exe
+D:\уник\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).pdb
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\UserCartPage.g.cs
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\UserCartPage.baml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject_WPF_.Migrations.DAD.resources
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AdminOrdersPage.g.cs
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AdminOrdersPage.baml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\OfferWindow.g.cs
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\OfferWindow.baml
+C:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject_WPF_.Migrations.MIGRATON.resources
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\CourseProject(WPF).exe.config
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\CourseProject(WPF).exe
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\CourseProject(WPF).pdb
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ControlzEx.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\crypto.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServer.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServerCompact.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Core.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Discovery.v1.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.PlatformServices.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\HtmlAgilityPack.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\InstagramApiSharp.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MahApps.Metro.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignColors.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Newtonsoft.Json.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.EF6.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.Linq.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SqlServerCe.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.IO.FileSystem.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Net.Http.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.AccessControl.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Permissions.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Principal.Windows.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Windows.Interactivity.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\VkNet.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ControlzEx.pdb
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\crypto.pdb
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\crypto.xml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.xml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServer.xml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServerCompact.xml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.pdb
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.xml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Core.pdb
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Core.xml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Discovery.v1.pdb
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Discovery.v1.xml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\HtmlAgilityPack.pdb
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\HtmlAgilityPack.xml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MahApps.Metro.pdb
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MahApps.Metro.xml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Newtonsoft.Json.xml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.xml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.dll.config
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\VkNet.xml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ru\EntityFramework.resources.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csprojAssemblyReference.cache
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\Resources\ButtonsDictionary.baml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\Resources\Styles.baml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AddWindow.baml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AuthWindow.baml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AddWindow.g.cs
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AdminOrdersPage.g.cs
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AdminPage.g.cs
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AlertWindow.g.cs
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AllAnnouncement.g.cs
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AuthWindow.g.cs
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\DialogWindow.g.cs
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\Enter.g.cs
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MainWindow.g.cs
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MainWindow2.g.cs
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\OfferWindow.g.cs
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\PersonAreaPage.g.cs
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\QuickViewWindow.g.cs
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\RegistrationWindow.g.cs
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\UserCartPage.g.cs
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\UserViewWindow.g.cs
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\ViewWindow.g.cs
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\App.g.cs
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF)_MarkupCompile.cache
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF)_MarkupCompile.lref
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\App.baml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AdminOrdersPage.baml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AdminPage.baml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AlertWindow.baml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AllAnnouncement.baml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\DialogWindow.baml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\Enter.baml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MainWindow.baml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MainWindow2.baml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\OfferWindow.baml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\PersonAreaPage.baml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\QuickViewWindow.baml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\RegistrationWindow.baml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\UserCartPage.baml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\UserViewWindow.baml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\ViewWindow.baml
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).g.resources
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject_WPF_.Migrations.DAD.resources
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject_WPF_.Migrations.MIGRATON.resources
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject_WPF_.Properties.Resources.resources
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.GenerateResource.cache
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.CoreCompileInputs.cache
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.CopyComplete
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).exe
+E:\kursach228\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).pdb
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\CourseProject(WPF).exe.config
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\CourseProject(WPF).exe
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\CourseProject(WPF).pdb
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ControlzEx.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\crypto.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServer.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServerCompact.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Core.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Discovery.v1.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.PlatformServices.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\HtmlAgilityPack.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MahApps.Metro.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignColors.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Newtonsoft.Json.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.EF6.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.Linq.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SqlServerCe.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.IO.FileSystem.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Net.Http.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.AccessControl.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Permissions.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Principal.Windows.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Windows.Interactivity.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ControlzEx.pdb
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\crypto.pdb
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\crypto.xml
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.xml
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServer.xml
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServerCompact.xml
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.pdb
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.xml
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Core.pdb
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Core.xml
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Discovery.v1.pdb
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Discovery.v1.xml
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\HtmlAgilityPack.pdb
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\HtmlAgilityPack.xml
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MahApps.Metro.pdb
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MahApps.Metro.xml
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Newtonsoft.Json.xml
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.xml
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.dll.config
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ru\EntityFramework.resources.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csprojAssemblyReference.cache
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\ViewWindow.g.cs
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\App.g.cs
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF)_MarkupCompile.cache
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF)_MarkupCompile.lref
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\App.baml
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\ViewWindow.baml
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).g.resources
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject_WPF_.Properties.Resources.resources
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.GenerateResource.cache
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.CoreCompileInputs.cache
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.CopyComplete
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).exe
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).pdb
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\Styles\Styles.baml
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AccountView.g.cs
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AccountView.baml
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\RegistrationView.g.cs
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\RegistrationView.baml
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\OfferView.g.cs
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\UserOrderView.g.cs
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\OfferView.baml
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\UserOrderView.baml
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MainUserView.g.cs
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MainUserView.baml
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MainAdminView.g.cs
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MainAdminView.baml
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\LoginView.baml
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\LoginView.g.cs
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AddItemView.baml
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AddItemView.g.cs
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\WarningView.g.cs
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\WarningView.baml
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AdminControlView.g.cs
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\DialogView.g.cs
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AdminControlView.baml
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\DialogView.baml
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AdminOrdersView.g.cs
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AdminOrdersView.baml
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\Styles\ButStyle.baml
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject_WPF_.Migrations.BD.resources
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\ItemsView.g.cs
+E:\study\lab4sem\OOP\Курсовая\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\ItemsView.baml
